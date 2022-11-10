@@ -1,0 +1,43 @@
+body{
+	background-color: rgb(255, 202, 248);
+}
+.titulo{
+	background-color: 		rgb(226, 195, 255);
+
+}
+.texto{
+	background-color: 			rgb(227, 181, 235);
+	font-size: 26px;
+	text-align: justify;
+	display: inline-block;
+	float: right;
+	width: 1300px;
+}
+
+img{
+	width: 30%;
+	height: 640px;
+	display: inline-block;
+	float: left;
+}
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: left;
+}	
+
+p{
+
+}    
+
+.texto2{
+	background-color: 			rgb(227, 181, 235);
+	font-size: 26px;
+	text-align: justify;
+	display: inline-block;
+	float: right;
+	width: 1300px;
+}
